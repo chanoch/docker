@@ -21,10 +21,10 @@ This article provides examples of the network subcommands you can use to interac
 * `docker network inspect`
 
 While not required, it is a good idea to read [Understanding Docker
-network](dockernetworks.md) before trying the examples in this section. The
-examples for the rely on a `bridge` network so that you can try them
+networks](dockernetworks.md) before trying the examples in this section. The
+examples below rely on a `bridge` network so that you can try them
 immediately.  If you would prefer to experiment with an `overlay` network see
-the [Getting started with multi-host networks](get-started-overlay.md) instead.
+the [Getting started with multi-host networks](get-started-overlay.md) guide instead.
 
 ## Create networks
 
